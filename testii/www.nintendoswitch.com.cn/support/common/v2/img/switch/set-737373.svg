@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <style>
+      .a {
+        fill: #737373;
+      }
+    </style>
+  </defs>
+  <title>set</title>
+  <g>
+    <path class="a" d="M128,77.258A50.742,50.742,0,1,1,77.258,128,50.8,50.8,0,0,1,128,77.258m0-17A67.742,67.742,0,1,0,195.742,128,67.742,67.742,0,0,0,128,60.258h0Z"/>
+    <g>
+      <g>
+        <rect class="a" x="54.537" y="176.793" width="32" height="18" rx="1" ry="1" transform="translate(251.79 267.29) rotate(135)"/>
+        <path class="a" d="M170.463,61.867h31a0,0,0,0,1,0,0v18a0,0,0,0,1,0,0h-31a1,1,0,0,1-1-1v-16A1,1,0,0,1,170.463,61.867Z" transform="translate(366.715 -10.164) rotate(135)"/>
+      </g>
+      <g>
+        <rect class="a" x="30.735" y="119.33" width="32" height="18" rx="1" ry="1" transform="translate(93.471 256.66) rotate(-180)"/>
+        <path class="a" d="M194.265,119.33h31a0,0,0,0,1,0,0v18a0,0,0,0,1,0,0h-31a1,1,0,0,1-1-1v-16A1,1,0,0,1,194.265,119.33Z" transform="translate(418.529 256.66) rotate(-180)"/>
+      </g>
+      <g>
+        <rect class="a" x="54.537" y="61.867" width="32" height="18" rx="1" ry="1" transform="translate(70.304 170.855) rotate(-135)"/>
+        <path class="a" d="M170.463,176.793h31a0,0,0,0,1,0,0v18a0,0,0,0,1,0,0h-31a1,1,0,0,1-1-1v-16A1,1,0,0,1,170.463,176.793Z" transform="translate(185.23 448.31) rotate(-135)"/>
+      </g>
+      <g>
+        <rect class="a" x="112" y="38.065" width="32" height="18" rx="1" ry="1" transform="translate(80.935 175.065) rotate(-90)"/>
+        <path class="a" d="M113,200.594h31a0,0,0,0,1,0,0v18a0,0,0,0,1,0,0H113a1,1,0,0,1-1-1v-16A1,1,0,0,1,113,200.594Z" transform="translate(-81.594 337.594) rotate(-90)"/>
+      </g>
+    </g>
+  </g>
+</svg>

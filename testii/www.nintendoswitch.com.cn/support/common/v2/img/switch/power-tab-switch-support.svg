@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <style>
+      .a {
+        fill: #e60012;
+      }
+
+      .b {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <title>power-tb-icon</title>
+  <path class="a" d="M254.72,51H1.28A1.285,1.285,0,0,0,0,52.283V203.717A1.285,1.285,0,0,0,1.28,205H254.72a1.285,1.285,0,0,0,1.28-1.283V52.283A1.285,1.285,0,0,0,254.72,51ZM239.36,188.317H16.64V67.683H239.36V188.317Z"/>
+  <rect class="b" width="256" height="256"/>
+</svg>

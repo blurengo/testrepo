@@ -1,0 +1,12 @@
+
+<svg  xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+<defs>
+<style>
+.cls-1{fill:none;}.cls-2{fill:#e60012;}
+</style>
+</defs>
+<title>table-available2</title>
+<rect class="cls-1" width="256" height="256"/>
+<path class="cls-2" d="M128,44a84,84,0,1,0,84,84,84,84,0,0,0-84-84m0-16A100,100,0,1,1,28,128,100,100,0,0,1,128,28Z"/>
+<path class="cls-2" d="M128,83.24A44.76,44.76,0,1,0,172.76,128,44.76,44.76,0,0,0,128,83.24m0-15.4A60.16,60.16,0,1,1,67.84,128,60.18,60.18,0,0,1,128,67.84Z"/>
+</svg>

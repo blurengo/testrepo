@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <style>
+      .a {
+        fill: #737373;
+      }
+    </style>
+  </defs>
+  <title>user</title>
+  <circle class="a" cx="128" cy="106.504" r="64"/>
+  <g>
+    <path class="a" d="M125.417,165.455c26.087,0,45.708,12.545,51.708,43.545l6.5,46.455h-62v-90h3.792Z"/>
+    <path class="a" d="M125.833,165.455C99.746,165.455,80.125,178,74.125,209l-6.5,46.455h62v-90h-3.792Z"/>
+  </g>
+</svg>
